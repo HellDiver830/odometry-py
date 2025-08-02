@@ -59,7 +59,7 @@ pip install opencv-contrib-python==4.8.1.78 numpy mss matplotlib
    ```bash
    ```
 
-git clone [https://github.com/yourusername/your-repo.git](https://github.com/yourusername/your-repo.git)
+git clone https://github.com/yourusername/your-repo](https://github.com/HellDiver830/odometry-py.git
 cd your-repo
 
 ````
@@ -98,8 +98,6 @@ pip install -r requirements.txt
    ```bash
    python main.py
    ```
-
-python main.py
 
 ```
 3. Для выхода нажмите `Ctrl+C` или закройте окно Matplotlib.
